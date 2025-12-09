@@ -120,7 +120,7 @@ The *environment itself* becomes the teacher — guiding young adults from distr
 **Focus:** Digital attention fragmentation, multitasking, stress  
 **Why Follow:** Provides empirical validation for the app's focus on structured, bounded attention environments.  
 **Where:**  
-- Website: [https://www.gloriamark.com] (https://www.gloriamark.com)
+- Website: [https://www.gloriamark.com](https://www.gloriamark.com)
 
 ## **K. Anders Ericsson**  
 **Who:** Conradi Eminent Scholar of Psychology (late)  
